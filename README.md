@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aasim Ghaffar 👋
 
-<!--
-**aasimghaffar/aasimghaffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack PHP Developer based in the UK — 9+ years building WordPress, WooCommerce, and Laravel applications, with a specialism in **API integrations** and **property-management-system (PMS) integrations** (Guesty, Hostaway, Hostfully, Smoobu).
 
-Here are some ideas to get you started:
+## 🔧 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Custom WordPress plugins** — currently building a production WooCommerce + LearnDash learning platform on WordPress Multisite (custom REST API, 30+ endpoints, custom database tables)
+- **API design & integration** — REST APIs, OAuth2/JWT, payment gateways (Stripe, PayPal), PMS and CRM integrations
+- **Free web tools** — [toolmid.com](https://toolmid.com) · [jpg2pdf.io](https://jpg2pdf.io) · [imagetotext.best](https://imagetotext.best)
+
+## ✍️ Writing
+
+I write about real-world WordPress and PHP architecture — the decisions behind production systems:
+
+- 📝 [dev.to/aasimghaffar](https://dev.to/aasimghaffar)
+- 📝 [medium.com/@aasimghaffar442925](https://medium.com/@aasimghaffar442925)
+
+## 📫 Connect
+
+- LinkedIn: [linkedin.com/in/aasim-ghaffar](https://www.linkedin.com/in/aasim-ghaffar/)
+- Stack Overflow: [aasim-ghaffar](https://stackoverflow.com/users/9469027/aasim-ghaffar)
