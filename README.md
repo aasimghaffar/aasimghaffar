@@ -1,6 +1,8 @@
-# Hi, I'm Aasim Ghaffar 👋
+## Hi, I'm Aasim — a senior full-stack developer in London. 9+ years, 100+ production projects.
 
-Full-Stack PHP Developer based in the UK — 9+ years building WordPress, WooCommerce, and Laravel applications, with a specialism in **API integrations** and **property-management-system (PMS) integrations** (Guesty, Hostaway, Hostfully, Smoobu).
+**What I build:** Laravel backends and REST APIs, WordPress plugins (1,000+ active installs on wordpress.org), React/Next.js frontends, and my own products — currently MoveCompass, a UK area-data platform.
+
+**Pinned below:** my best work. Every repo has a README with the problem it solves, the stack, and a live link where possible.
 
 ## 🔧 What I work on
 
