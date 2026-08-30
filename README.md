@@ -1,6 +1,6 @@
 ## Hi, I'm Aasim 👋
 
-Senior full-stack developer in UK — 9+ years, 100+ production
+Senior full-stack developer in the UK — 9+ years, 100+ production
 projects for clients across the UK, US, and Europe.
 
 **What I build:** Laravel backends & REST APIs · WordPress plugins (1,000+
