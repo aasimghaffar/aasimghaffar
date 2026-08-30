@@ -26,15 +26,15 @@ active installs on wordpress.org) · React/Next.js frontends · my own products.
 All free on wordpress.org → [see all my plugins](https://wordpress.org/plugins/search/cubixsol/)
 
 - **[Auto Refresh Post & Page](https://wordpress.org/plugins/auto-refresh-post-page/)** —
-  1,000+ active installs · live blogs, scoreboards & dashboards ·
+  1,000+ active installs · live blogs, scoreboards & dashboards·
 - **[AltCraft AI – Image SEO & Auto Alt Text](https://wordpress.org/plugins/altcraft-ai-image-seo/)** —
-  AI alt-text generation & WebP conversion for image SEO
+  AI alt-text generation & WebP conversion for image SEO.
 - **[Cubixsol Multi AI Image Generator](https://wordpress.org/plugins/cubixsol-multi-ai-image-generator/)** —
-  9 AI engines + 5 stock photo libraries, bulk featured images ·
-- **[Cubix AI Article Generator](https://github.com/aasimghaffar/Cubix-AI-Article-Generator)** —
-  AI writing suite for the WordPress editor
+  9 AI engines + 5 stock photo libraries, bulk featured images·
+- **[Cubix AI Article Generator](https://wordpress.org/plugins/altcraft-ai-image-seo/)** —
+  AI writing suite for the WordPress editor.
 - **[Multi Channel Chat Order Button For WooCommerce](https://wordpress.org/plugins/cubixsol-multi-channel-chat-order-button-for-woocommerce/)** —
-  WhatsApp marketing (Customer Chat using Whatsapp)
+  multi-channel chat & order buttons for WooCommerce — WhatsApp, Messenger, Telegram & more, with prefilled order messages.
 
 ## 🏗️ Selected client work
 
