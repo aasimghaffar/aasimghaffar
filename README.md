@@ -1,6 +1,6 @@
 ## Hi, I'm Aasim 👋
 
-Senior full-stack developer in Slough, UK — 9+ years, 100+ production
+Senior full-stack developer in UK — 9+ years, 100+ production
 projects for clients across the UK, US, and Europe.
 
 **What I build:** Laravel backends & REST APIs · WordPress plugins (1,000+
@@ -27,14 +27,14 @@ All free on wordpress.org → [see all my plugins](https://wordpress.org/plugins
 
 - **[Auto Refresh Post & Page](https://wordpress.org/plugins/auto-refresh-post-page/)** —
   1,000+ active installs · live blogs, scoreboards & dashboards ·
-  [source](https://github.com/aasimghaffar/Auto-Refresh-Post-Page)
 - **[AltCraft AI – Image SEO & Auto Alt Text](https://wordpress.org/plugins/altcraft-ai-image-seo/)** —
   AI alt-text generation & WebP conversion for image SEO
-- **[Cubixsol Multi AI Image Generator](https://wordpress.org/plugins/search/cubixsol/)** —
+- **[Cubixsol Multi AI Image Generator](https://wordpress.org/plugins/cubixsol-multi-ai-image-generator/)** —
   9 AI engines + 5 stock photo libraries, bulk featured images ·
-  [source](https://github.com/aasimghaffar/Cubixsol-Multi-AI-Image-Generator)
 - **[Cubix AI Article Generator](https://github.com/aasimghaffar/Cubix-AI-Article-Generator)** —
   AI writing suite for the WordPress editor
+- **[Multi Channel Chat Order Button For WooCommerce](https://wordpress.org/plugins/cubixsol-multi-channel-chat-order-button-for-woocommerce/)** —
+  WhatsApp marketing (Customer Chat using Whatsapp)
 
 ## 🏗️ Selected client work
 
@@ -50,8 +50,6 @@ across three phases:
 - **Phase 3 — Course discovery & registration:** API-driven React SPAs for
   course search (list + Google Maps view, geolocation, distance & filters)
   and learner registration
-
-*Client work shown by capability only — names and URLs under NDA.*
 
 ## ✍️ Writing
 
