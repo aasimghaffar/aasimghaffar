@@ -55,7 +55,7 @@ across three phases:
 
 Real-world WordPress and PHP architecture — the decisions behind production
 systems: [dev.to/aasimghaffar](https://dev.to/aasimghaffar) ·
-[medium.com/@aasimghaffar442925](https://medium.com/@aasimghaffar442925)
+[medium.com/@aasimghaffar442925](https://medium.com/@aasimghaffar)
 
 ## 📫 Connect
 
