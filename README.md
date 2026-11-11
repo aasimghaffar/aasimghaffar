@@ -64,4 +64,9 @@ systems: [dev.to/aasimghaffar](https://dev.to/aasimghaffar) ·
 [Stack Overflow](https://stackoverflow.com/users/9469027/aasim-ghaffar)
 
 Free tools: [toolmid.com](https://toolmid.com) · [jpg2pdf.io](https://jpg2pdf.io) · [imagetotext.best](https://imagetotext.best)
+ 
+  
+  ## Publications
+  - Ghaffar, A., et al. (2026). Explainable Artificial Intelligence in Personalized Patient Engagement and Digital Healthcare Decision-Making: A Comprehensive Study. IJAIML, 6(4), 63–72. https://www.svedbergopen.com/index.php/ijaiml/article/view/3125
+  - Akram, W., Ghaffar, A., et al. (2026). Road Features Extraction from Aerial Images Using Deep Learning. IJCST, 17(5), 21–29. https://ijcst.org/Volume17/Issue5.html
 
